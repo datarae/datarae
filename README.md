@@ -2,7 +2,7 @@
 - 👀 I’m interested in neural networks, reinforcement learning and the quest for artificial general intelligence.
 - 🌱 I’m currently working toward a PhD in data science.
 - 💞️ I’m looking to collaborate on interesting projects in artificial intelligence and science.
-- 📫 You can reach me at dataraesolutions@gmail.com
+- 📫 You can reach me at rachipe@jaxorik.com
 - ⚡ Fun fact: I have tried every flavor of Mountain Dew.
 
 <!---
